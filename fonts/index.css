@@ -1,0 +1,6 @@
+p {
+  font-family: "Times New Roman", serif;
+  /* font serifada tem bordas redondas */
+  font-family: sans-serif;
+  /* não tem bordas */
+}

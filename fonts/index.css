@@ -10,4 +10,16 @@ p {
   /* altera bem as fonts */
   font-stretch: expanded;
   /* ele pode mudar a forma de tamanhos */
+  letter-spacing: 4px;
+  /* espaçamento entre letras */
+  word-spacing: 4px;
+  /* espaçamento entre palavras */
+  line-height: 1.6;
+  text-transform: lowercase;
+  text-decoration: underline;
+  text-align: center;
+  text-shadow: 2px 2px red;
+
+  /* também podemos agrupar fonts em shorthand,
+  tudo junto. */
 }

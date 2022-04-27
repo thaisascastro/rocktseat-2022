@@ -4,4 +4,10 @@ p {
   font-family: sans-serif;
   /* não tem bordas */
   font-weight: bold;
+  font-style: oblique;
+  font-size: 1.2em;
+  font-variant: small-caps;
+  /* altera bem as fonts */
+  font-stretch: expanded;
+  /* ele pode mudar a forma de tamanhos */
 }

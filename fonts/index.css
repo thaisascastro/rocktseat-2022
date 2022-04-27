@@ -3,4 +3,5 @@ p {
   /* font serifada tem bordas redondas */
   font-family: sans-serif;
   /* não tem bordas */
+  font-weight: bold;
 }

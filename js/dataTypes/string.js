@@ -8,3 +8,4 @@
 */
 
 console.log("Thaísa");
+console.log(`Leandro ${1 + 1}`);

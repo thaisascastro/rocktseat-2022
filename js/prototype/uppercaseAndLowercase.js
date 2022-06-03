@@ -1,5 +1,5 @@
 let word = "Programar é muito bacana!"
-console.log(word.toLocaleUpperCase()) // caixa alta
+console.log(word.toUpperCase()) // caixa alta
 
 let newWord = "Programar é muito legal!"
-console.log(word.toLocaleLowerCase()) // caixa baixa
+console.log(word.toLowerCase()) // caixa baixa

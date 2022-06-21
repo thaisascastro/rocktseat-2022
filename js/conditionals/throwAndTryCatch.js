@@ -16,3 +16,5 @@ try {
 } catch (e) {
   console.log(e)
 }
+
+console.log("Após o try/catch")

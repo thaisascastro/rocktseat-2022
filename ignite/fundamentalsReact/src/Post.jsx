@@ -1,3 +1,8 @@
-export default function Post() {
-  return <p>Post</p>
+export default function Post(props) {
+  return (
+  <div>
+    <strong>{props.author}</strong>
+    <p>{props.content}</p>
+  </div>
+  )
 }

@@ -1,8 +1,16 @@
-function App() {
+import { Fragment } from "react"
+import Post from "./Post"
+
+export function App() {
 
   return (
-   <h1>Hello World</h1>
+    <Fragment>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+      <Post/>
+   </Fragment>
   )
 }
 
-export default App

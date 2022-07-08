@@ -1,4 +1,5 @@
 import styles from "./Post.module.css";
+import { Comment } from "./Comment.jsx";
 
 export function Post() {
   return (

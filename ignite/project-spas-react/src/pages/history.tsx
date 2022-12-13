@@ -1,3 +1,9 @@
+import { Fragment } from 'react'
+
 export function History() {
-  return <h1>História</h1>
+  return (
+    <Fragment>
+      <h1>História</h1>
+    </Fragment>
+  )
 }
